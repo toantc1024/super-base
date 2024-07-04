@@ -39,8 +39,6 @@ Giống như một cái máy Laptop mới mua bạn phải cấu hình tên củ
 
 ![alt text](image-1.png)
 
-Để xem các cấu hình hiện tại bạn dùng lệnh
-
 Bây giờ chúng ta sẽ tiến hành cấu hình tên và email của chúng ta bằng 2 lệnh sau
 
 ```sh
@@ -51,6 +49,8 @@ git config --global user.email 'email_cua_ban'
 ```
 
 Ghi chú: email và name có thể đặt tùy ý!
+
+Để xem các cấu hình hiện tại bạn dùng lệnh
 
 ```sh
 git config --list
