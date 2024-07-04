@@ -58,7 +58,7 @@ git config --list
 
 ![alt text](image-3.png)
 
-# Tạo một repo trên Github
+## Tạo một repo trên Github
 
 Repo hay repository là một thư mục lưu trữ code của bạn trên Github. Chúng ta sẽ tiến hành tạo một repo trên Github như sau
 
