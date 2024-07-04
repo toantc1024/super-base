@@ -169,6 +169,8 @@ Tadataa!!!!
 
 ## Lấy code Github về sửa và đăng lên lại
 
+(Cách này chỉ có thể áp dụng với các repo mà bạn là collaborator hoặc owner thoy nha!!)
+
 Nếu lúc tạo repo bạn tích vào README.md thì tức là code đã có trên Github, nếu bạn dùng cách ở trên thì sẽ bị lỗi ghi đè. Bây giờ bạn sẽ thực hiện các thao tác sau
 
 Bước 1: Tại trang của repo trên Github, bạn nhìn vào nút <> Code
