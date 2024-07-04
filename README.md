@@ -189,7 +189,7 @@ Bước 4: Để tải code về chúng ta dùng lệnh
 git clone <link_https>
 ```
 
-`link_https` tương ứng ở bương 2 trong clipboard. Sau đó bạn ấn enter.
+`link_https` tương ứng ở bước 2 trong clipboard. Sau đó bạn ấn enter.
 
 ![alt text](image-14.png)
 
