@@ -2,6 +2,8 @@
 
 ### ✍️: [toantc1024](https://github.com/toantc1024/)
 
+# Git là gì vậy? Có ăn được hơm?? 🤔
+
 Git là một hệ thống kiểm soát phiên bản theo dõi các phiên bản của tệp. Chúng ta thường sử dụng nó để có thể phát triển dự án chung với nhau dễ dàng và thuận tiện hơn. Mỗi một dự án được chia làm nhiều nhánh (tương ứng với các phiên bản khác nhau của dự án).
 
 Github là một dịch vụ cung cấp kho lữu trữ mã nguồn Git trên đám mây.
