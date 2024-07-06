@@ -121,6 +121,8 @@ git remote add origin git@github.com:toantc1024/super-code.git
 
 Đường link `git@github.com:toantc1024/super-code.git` được gọi là liên kết ssh, bạn có thể lấy tại trang tạo repo lúc nãy
 
+Nếu nó báo lỗi ssh, bạn có thể làm theo [hướng dẫn này](https://dev.to/chefgs/how-to-setup-ssh-for-git-operations-in-github-m8c) để cài đặt ssh key nhé! RẤT QUAN TRỌNG.
+
 ![alt text](image-10.png)
 
 `Bước 6`: Bùm!!! Đăng code lên Github bằng lệnh sau:
