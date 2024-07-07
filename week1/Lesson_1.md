@@ -161,10 +161,60 @@ Vậy chuyện gì sẽ xảy ra?
 
 Code trên nhánh develop xung đột với code từ nhánh của mình.
 
-## Conflict resolve in local
+![alt text](image-20.png)
 
-## Conflict resolve in Github
+## Resolve conflict
 
-## Một số lệnh cập nhật code
+Video dưới đây sẽ hướng dẫn cách resolve conflict trên Github remote cũng như local
+
+<video controls src="chrome_eh5BHEoHx2.mp4" title="Title"></video>
+
+Cách làm trên local
+
+Pull code từ remote về develop
+
+```sh
+git checkout develop # Chuyển sang nhánh develop
+git pull
+```
+
+Sau đó chuyển lại sang nhánh feature/add-file
+
+```sh
+git checkout feature/add-file
+```
+
+![alt text](image-21.png)
+
+Để gộp nhánh develop vào nhánh hiện tại (feature/add-file) ta dùng lệnh
+
+```sh
+git merge develop
+```
+
+Và nó sẽ tự động hiện ra conflict
+
+![alt text](image-22.png)
+
+Trên VSCode sẽ có những option màu xanh biển
+
+![alt text](image-23.png)
+
+Ghi chú:
+
+- Accept current change: Là giữ nội dung file trên nhánh feature/add-file
+- Accept incoming change: Giữ nội dung trên nhánh develop
+- Accept both change: Giữ cả hai
+
+Sau khi đã hoàn tất resolve conflict, chúng ta sẽ thực hiện việc push code lên như bình thường
+
+![alt text](image-25.png)
+
+Sau đó kiểm tra github repo sẽ thấy không còn conflict
+
+![alt text](image-24.png)
+
+Và cuối cùng là
+`Confirm merge`
 
 ### Cảm ơn các bạn đã đọc qua bài viết này nha. 🤟😍
